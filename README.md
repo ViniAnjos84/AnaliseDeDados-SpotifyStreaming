@@ -133,7 +133,7 @@ Exemplo:
 
 - 2020 → Dri
 - 2021 → VMZ
-- 2022 → NEFFEX
+- 2022 → Dri
 - 2023 → Djonga
 - 2024 → Pearl Jam
 - 2025 → MORADA
